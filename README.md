@@ -1,0 +1,2 @@
+# angularbobbyval
+angulár gyakorlás
